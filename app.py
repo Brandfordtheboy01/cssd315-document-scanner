@@ -25,7 +25,7 @@ from modules.filters import (
     apply_color_enhance
 )
 from modules.pdf_gen import bgr_to_pil, generate_pdf_bytes
-from modules.slides import render_slides
+from modules.slides_revised import render_slides
 
 st.set_page_config(
     page_title="DocuScan Pro — Computer Vision Scanner",

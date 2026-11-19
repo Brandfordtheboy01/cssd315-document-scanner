@@ -1,11 +1,7 @@
 """
-Interactive Presentation Slides (teaching version with worked examples)
-CSSD 315 Computer Graphics - Group Project (Brief 6)
+Superseded technical-maths presentation deck, retained for reference only.
 
-Every string containing LaTeX is a raw string (r"...") so Python does not
-turn \b, \t, \f etc. into control characters.
-All numbers in the worked examples were computed with the project's own
-code (modules/homography.py) - see scratch/worked_examples.py.
+The app now presents the English-first deck in modules/slides_revised.py.
 """
 
 import streamlit as st
